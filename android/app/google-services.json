@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739921343400",
+    "project_id": "fortisenha-f431b",
+    "storage_bucket": "fortisenha-f431b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739921343400:android:535a265cc9e25551ede39d",
+        "android_client_info": {
+          "package_name": "com.example.fortisenha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLAmavA_sJxi74dtFG1kJy5hfLmbKqwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739921343400:android:4478aed750618890ede39d",
+        "android_client_info": {
+          "package_name": "com.julia.fortisenha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLAmavA_sJxi74dtFG1kJy5hfLmbKqwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
